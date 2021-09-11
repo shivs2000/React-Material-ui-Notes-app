@@ -8,4 +8,4 @@
 
 ![CreateNotes Screen](https://user-images.githubusercontent.com/43001208/132956113-fad8c61d-5c89-47df-a83f-b69bb31a09ad.png)
 
-`DEPLOYEMNT NOT WORKING BECAUSE IT USES JSON-SERVER`
+`DEPLOYEMENT IS NOT WORKING BECAUSE IT USES JSON-SERVER`
