@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Material-ui-Notes-app/static/css/main.238f7190.chunk.css",
+    "main.js": "/React-Material-ui-Notes-app/static/js/main.10b4390a.chunk.js",
+    "main.js.map": "/React-Material-ui-Notes-app/static/js/main.10b4390a.chunk.js.map",
+    "runtime-main.js": "/React-Material-ui-Notes-app/static/js/runtime-main.dc25e0a2.js",
+    "runtime-main.js.map": "/React-Material-ui-Notes-app/static/js/runtime-main.dc25e0a2.js.map",
+    "static/js/2.6c560e29.chunk.js": "/React-Material-ui-Notes-app/static/js/2.6c560e29.chunk.js",
+    "static/js/2.6c560e29.chunk.js.map": "/React-Material-ui-Notes-app/static/js/2.6c560e29.chunk.js.map",
+    "static/js/3.4e58bc19.chunk.js": "/React-Material-ui-Notes-app/static/js/3.4e58bc19.chunk.js",
+    "static/js/3.4e58bc19.chunk.js.map": "/React-Material-ui-Notes-app/static/js/3.4e58bc19.chunk.js.map",
+    "index.html": "/React-Material-ui-Notes-app/index.html",
+    "static/css/main.238f7190.chunk.css.map": "/React-Material-ui-Notes-app/static/css/main.238f7190.chunk.css.map",
+    "static/js/2.6c560e29.chunk.js.LICENSE.txt": "/React-Material-ui-Notes-app/static/js/2.6c560e29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc25e0a2.js",
+    "static/js/2.6c560e29.chunk.js",
+    "static/css/main.238f7190.chunk.css",
+    "static/js/main.10b4390a.chunk.js"
+  ]
+}
